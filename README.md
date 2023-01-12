@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">Programming languages, that i used:<h3>
+<h3 align="center">Programming languages I have used:<h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/88709818/212055222-355f713e-3413-4740-88aa-4c2122de3027.png">
@@ -16,7 +16,7 @@
 
 ---
 
-#### Technologes, that i used:
+#### Technologies i used:
 
 - ##### Visual Studio Code
 
