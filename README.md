@@ -16,7 +16,7 @@
 
 ---
 
-#### Technologies i used:
+#### Tools i used:
 
 - ##### Visual Studio Code
 
